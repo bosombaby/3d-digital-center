@@ -14,7 +14,7 @@
 
 
 
-**项目开源地址**：三维数字化开发管理中心
+**项目开源地址**：[三维数字化开发管理中心](https://github.com/bosombaby/3d-digital-center)
 
 ## 二、项目依赖
 
